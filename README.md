@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend and backend developer and a graduate at Polytechnic University of the Philippines</h3>
 
 - 🌱 I’m currently learning **Flutter, Microservices, etc....**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
