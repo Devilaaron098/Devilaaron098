@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron A. Bunite</h1>
 <h3 align="center">A passionate frontend and backend developer and a graduate at Polytechnic University of the Philippines</h3>
 
-<p align="justify">I am an IT graduate from the **Polytechnic University of the Philippines** with strong technical and programming skills.  
+<p align="justify">I am an IT graduate from the Polytechnic University of the Philippines with strong technical and programming skills.  
 I thrive in dynamic environments, quickly adapting to new languages, technologies, and systems with practice and training.  
 Committed to growth and innovation, I aim to contribute effectively to technical domains and projects.</p>
 
